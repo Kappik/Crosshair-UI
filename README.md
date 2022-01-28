@@ -19,3 +19,4 @@ Change the Config Crosshair URL to your liking.
 add start Crosshair-UI to your server.cfg
 Well Done :)
 
+https://streamable.com/ax37uh
